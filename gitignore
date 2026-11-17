@@ -1,0 +1,9 @@
+# Datos crudos de Binance (muy pesados)
+*.zip
+columna3_total.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
